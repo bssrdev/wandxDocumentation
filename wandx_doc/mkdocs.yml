@@ -1,0 +1,17 @@
+site_name: WandX
+
+theme: readthedocs
+
+
+nav:
+- 'index.md'
+- 'gettingstarted.md'
+- 'furtherreference.md'
+
+
+# theme:
+#     name: mkdocs
+#     highlightjs: true
+#     hljs_languages:
+#         - yaml
+#         - rust
